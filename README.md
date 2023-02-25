@@ -1,2 +1,2 @@
 # circleci
-circle CI / CD
+Welcome my friday CI / CD
