@@ -12,7 +12,7 @@ jobs:
             echo "hello world"
             ls
             pwd
-            cat README.me
+            cat README.md
 workflows:
   welcome:
     jobs:
